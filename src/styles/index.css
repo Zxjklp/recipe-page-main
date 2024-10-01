@@ -181,7 +181,7 @@ picture {
   color: var(--Brown-800);
 }
 
-@media (max-width: 30rem) { 
+@media (max-width: 30rem) {
   body {
     padding: initial;
     margin: 0;
