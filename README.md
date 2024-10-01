@@ -5,8 +5,8 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Links
 
-- Solution URL: [https://www.frontendmentor.io/solutions/](https://www.frontendmentor.io/solutions/)
-- Live Site URL: [https://zxjklp.github.io/](https://zxjklp.github.io/)
+- Solution URL: [https://www.frontendmentor.io/solutions/recipe-page-EE6xjHinjH](https://www.frontendmentor.io/solutions/recipe-page-EE6xjHinjH)
+- Live Site URL: [https://zxjklp.github.io/recipe-page-main/](https://zxjklp.github.io/recipe-page-main/)
 
 ### Built With
 
