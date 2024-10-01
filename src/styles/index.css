@@ -50,7 +50,8 @@ body {
 }
 
 picture {
-  padding: 2.5rem 2.5rem 0;
+  /* padding: 2.5rem 2.5rem 0; */
+  padding: 0;
 }
 
 .recipe-header-image {
