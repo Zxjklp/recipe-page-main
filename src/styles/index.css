@@ -88,6 +88,15 @@ picture {
   margin-top: 0;
 }
 
+.ingredients-title,
+.instructions-title,
+.nutrition-title {
+  color: var(--Brown-800);
+  font-family: "Young Serif", serif;
+  font-size: 1.75rem;
+  font-weight: 400;
+}
+
 .preparation-list,
 .ingredients-list {
   list-style-type: none;
@@ -123,15 +132,6 @@ picture {
   border-bottom: 1px solid var(--Stone-150);
 }
 
-.ingredients-title,
-.instructions-title,
-.nutrition-title {
-  color: var(--Brown-800);
-  font-family: "Young Serif", serif;
-  font-size: 1.75rem;
-  font-weight: 400;
-}
-
 .instructions,
 .nutrition {
   margin-top: 2rem;
@@ -165,9 +165,8 @@ picture {
 }
 
 .nutrition-list li {
-  padding: 0.75rem 0;
+  padding: 0.75rem 0 0.75rem 2rem;
   border-bottom: 1px solid var(--Stone-150);
-  padding-left: 2rem;
   display: grid;
   grid-template-columns: 1fr 1fr;
   align-items: center;
@@ -179,12 +178,6 @@ picture {
 
 .nutrition-list .highlight {
   color: var(--Brown-800);
-}
-
-@media (max-width: 48rem) {
-  .card {
-    max-width: 46rem;
-  }
 }
 
 @media (max-width: 30rem) { 
