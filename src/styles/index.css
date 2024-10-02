@@ -38,10 +38,11 @@ body {
   font-weight: 400;
   padding: 1rem;
   margin: 0;
+  padding: 0;
   display: flex;
   justify-content: center;
   align-items: center;
-  min-height: 100svh
+  min-height: 100svh;
 }
 
 .card {
